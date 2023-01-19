@@ -1,0 +1,11 @@
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\bin\Debug\opp gpa calculator.exe.config
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\bin\Debug\opp gpa calculator.exe
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\bin\Debug\opp gpa calculator.pdb
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\obj\Debug\opp gpa calculator.csproj.AssemblyReference.cache
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\obj\Debug\opp gpa calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\obj\Debug\opp_gpa_calculator.Form1.resources
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\obj\Debug\opp_gpa_calculator.Properties.Resources.resources
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\obj\Debug\opp gpa calculator.csproj.GenerateResource.cache
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\obj\Debug\opp gpa calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\obj\Debug\opp gpa calculator.exe
+C:\Users\Sameer Butt\Desktop\opp\opp gpa calculator\opp gpa calculator\obj\Debug\opp gpa calculator.pdb
